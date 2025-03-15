@@ -1,0 +1,15 @@
+name: AdminPanel
+version: 1.0
+main: com.darkravenscripts.Main
+description: This plugin gives staff an admin panel to manage the server!
+author: Xavlios
+prefix: ap
+#permissions:
+#  test.foo:
+#    description: Allows foo command
+#    default: op
+#  test.*:
+#    description: Wildcard permission
+#    default: op
+#    children:
+#      test.foo: true
